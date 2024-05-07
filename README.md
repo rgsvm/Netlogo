@@ -1,2 +1,2 @@
 # Netlogo
-Netlogo - Agent Based Modelling PRoject
+Netlogo - Agent Based Modelling Project
